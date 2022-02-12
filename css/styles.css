@@ -34,9 +34,9 @@ header {
     height: 400px;
     background: #d9a7c7;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(278, 100%, 93%, 0.61), hsla(322, 40%, 75%, 0.61)), url(../img/pexels-maria-eduarda-loura-magalhães-3828094.jpg);
+    background: -webkit-linear-gradient(to right, hsla(278, 100%, 93%, 0.61), hsla(322, 40%, 75%, 0.61)), url(../img/pexels-maria-eduarda-loura-magalhes-3828094.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(278, 100%, 93%, 0.61), hsla(322, 40%, 75%, 0.61)), url(../img/pexels-maria-eduarda-loura-magalhães-3828094.jpg);
+    background: linear-gradient(to right, hsla(278, 100%, 93%, 0.61), hsla(322, 40%, 75%, 0.61)), url(../img/pexels-maria-eduarda-loura-magalhes-3828094.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
